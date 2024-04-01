@@ -1,0 +1,45 @@
+/* Style untuk halaman utama */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Style untuk menu atas */
+.menu {
+    text-align: center;
+    background-color: #ffc107;
+    padding: 10px;
+}
+
+.menu a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.menu a:hover {
+    color: #000;
+    font-weight: bold;
+}
+
+/* Style untuk konten */
+.content {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
